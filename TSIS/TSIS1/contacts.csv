@@ -1,7 +1,8 @@
-first_name,last_name,phone,email
-Alice,Smith,+77010000001,alice@example.com
-Bob,Johnson,+77020000002,bob@example.com
-Carol,,+77030000003,carol@example.com
+first_name,last_name,phone,email,birthday,group,extra_phone,phone_type
+Alice,Smith,+77010000001,alice@example.com,1990-05-15,Family,+77010000111,home
+Bob,Johnson,+77020000002,bob@example.com,1985-03-22,Work,+77020000222,work
+Carol,,+77030000003,carol@example.com,1992-11-08,Friend,,
+David,Brown,+77040000004,david@example.com,1988-07-10,Other,+77040000444,mobile
 
 
 
